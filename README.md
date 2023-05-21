@@ -17,10 +17,10 @@
 * Encapsulation
 ## Dependency
 1.Spring Web <br>
-2.Spring Boot DevTools
-3.Lombok
-4.Spring Data JPA
-5.H2 Database
+2.Spring Boot DevTools<br>
+3.Lombok<br>
+4.Spring Data JPA<br>
+5.H2 Database<br>
 
 ## Requirments
 1. IntelliJIDEA
